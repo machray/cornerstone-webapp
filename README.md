@@ -13,4 +13,4 @@ npm install //installs any dependancies
 
 npm start //starts http
 
-Go to http://localhost:8000/app/index.html
+Go to http://localhost:8000
